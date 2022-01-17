@@ -34,3 +34,16 @@ namespace Interface
         }
     }
 }
+
+namespace Enum
+{
+    //Comeca do 0 e aumenta de 1 em 1. No caso Gabriela é 0, miguel 1 e etc. (indice)
+    enum Pessoas
+    {
+        Gabriela,
+        Miguel,
+        João,
+        Jorge,
+        Aline
+    }
+}
