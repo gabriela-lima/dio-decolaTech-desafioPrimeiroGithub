@@ -1,0 +1,15 @@
+C:\worskspace\Contas_Teste\Contas_Teste\obj\Debug\net6.0\Contas_Teste.csproj.AssemblyReference.cache
+C:\worskspace\Contas_Teste\Contas_Teste\obj\Debug\net6.0\Contas_Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\worskspace\Contas_Teste\Contas_Teste\obj\Debug\net6.0\Contas_Teste.AssemblyInfoInputs.cache
+C:\worskspace\Contas_Teste\Contas_Teste\obj\Debug\net6.0\Contas_Teste.AssemblyInfo.cs
+C:\worskspace\Contas_Teste\Contas_Teste\obj\Debug\net6.0\Contas_Teste.csproj.CoreCompileInputs.cache
+C:\worskspace\Contas_Teste\Contas_Teste\bin\Debug\net6.0\Contas_Teste.exe
+C:\worskspace\Contas_Teste\Contas_Teste\bin\Debug\net6.0\Contas_Teste.deps.json
+C:\worskspace\Contas_Teste\Contas_Teste\bin\Debug\net6.0\Contas_Teste.runtimeconfig.json
+C:\worskspace\Contas_Teste\Contas_Teste\bin\Debug\net6.0\Contas_Teste.dll
+C:\worskspace\Contas_Teste\Contas_Teste\bin\Debug\net6.0\ref\Contas_Teste.dll
+C:\worskspace\Contas_Teste\Contas_Teste\bin\Debug\net6.0\Contas_Teste.pdb
+C:\worskspace\Contas_Teste\Contas_Teste\obj\Debug\net6.0\Contas_Teste.dll
+C:\worskspace\Contas_Teste\Contas_Teste\obj\Debug\net6.0\ref\Contas_Teste.dll
+C:\worskspace\Contas_Teste\Contas_Teste\obj\Debug\net6.0\Contas_Teste.pdb
+C:\worskspace\Contas_Teste\Contas_Teste\obj\Debug\net6.0\Contas_Teste.genruntimeconfig.cache
