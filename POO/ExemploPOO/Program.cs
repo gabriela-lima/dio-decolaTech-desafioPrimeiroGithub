@@ -7,19 +7,21 @@ namespace ExemploPOO
     {
         static void Main(string[] args)
         {
-
+            //Mostrando heranca
             Aluno a1 = new Aluno();
             a1.Nome = "Bob";
             a1.Idade = 20;
             a1.Nota = 9;
             a1.Apresentar();
 
+            //Mostrando heranca
             Professor pr1 = new Professor();
             pr1.Nome = "Rob";
             pr1.Idade = 35;
             pr1.Salario = 10000;
             pr1.Apresentar();
 
+            //Mostrando diferencas nos niveis de protecao. private e public
             // //valores validos
             Retangulo r  =  new Retangulo();
             r.DefinirMedidas(30,30);
@@ -30,6 +32,7 @@ namespace ExemploPOO
             r.DefinirMedidas(0,0);
             System.Console.WriteLine($"Area: {r2.ObterArea()}");
 
+            //Criando classe
             Pessoa p1 = new Pessoa();
             p1.Nome = "Bob";
             p1.Idade = 20;
