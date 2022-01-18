@@ -1,0 +1,15 @@
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\1Passos.net\Revisao\bin\Debug\net6.0\Revisao.exe
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\1Passos.net\Revisao\bin\Debug\net6.0\Revisao.deps.json
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\1Passos.net\Revisao\bin\Debug\net6.0\Revisao.runtimeconfig.json
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\1Passos.net\Revisao\bin\Debug\net6.0\Revisao.dll
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\1Passos.net\Revisao\bin\Debug\net6.0\ref\Revisao.dll
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\1Passos.net\Revisao\bin\Debug\net6.0\Revisao.pdb
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\1Passos.net\Revisao\obj\Debug\net6.0\Revisao.csproj.AssemblyReference.cache
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\1Passos.net\Revisao\obj\Debug\net6.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\1Passos.net\Revisao\obj\Debug\net6.0\Revisao.AssemblyInfoInputs.cache
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\1Passos.net\Revisao\obj\Debug\net6.0\Revisao.AssemblyInfo.cs
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\1Passos.net\Revisao\obj\Debug\net6.0\Revisao.csproj.CoreCompileInputs.cache
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\1Passos.net\Revisao\obj\Debug\net6.0\Revisao.dll
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\1Passos.net\Revisao\obj\Debug\net6.0\ref\Revisao.dll
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\1Passos.net\Revisao\obj\Debug\net6.0\Revisao.pdb
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\1Passos.net\Revisao\obj\Debug\net6.0\Revisao.genruntimeconfig.cache
