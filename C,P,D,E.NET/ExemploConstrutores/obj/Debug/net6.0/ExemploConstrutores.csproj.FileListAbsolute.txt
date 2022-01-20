@@ -1,0 +1,15 @@
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\C,P,D,E.NET\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.exe
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\C,P,D,E.NET\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.deps.json
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\C,P,D,E.NET\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.runtimeconfig.json
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\C,P,D,E.NET\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.dll
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\C,P,D,E.NET\ExemploConstrutores\bin\Debug\net6.0\ref\ExemploConstrutores.dll
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\C,P,D,E.NET\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.pdb
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\C,P,D,E.NET\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.csproj.AssemblyReference.cache
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\C,P,D,E.NET\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\C,P,D,E.NET\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.AssemblyInfoInputs.cache
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\C,P,D,E.NET\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.AssemblyInfo.cs
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\C,P,D,E.NET\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.csproj.CoreCompileInputs.cache
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\C,P,D,E.NET\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.dll
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\C,P,D,E.NET\ExemploConstrutores\obj\Debug\net6.0\ref\ExemploConstrutores.dll
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\C,P,D,E.NET\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.pdb
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\C,P,D,E.NET\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.genruntimeconfig.cache
