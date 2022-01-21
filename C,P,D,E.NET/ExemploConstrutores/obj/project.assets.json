@@ -8,7 +8,7 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Pichau\\.nuget\\packages\\": {}
+    "C:\\Users\\sizal\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,18 +16,16 @@
       "projectUniqueName": "C:\\worskspace\\dio-decolaTech-desafioPrimeiroGithub\\C,P,D,E.NET\\ExemploConstrutores\\ExemploConstrutores.csproj",
       "projectName": "ExemploConstrutores",
       "projectPath": "C:\\worskspace\\dio-decolaTech-desafioPrimeiroGithub\\C,P,D,E.NET\\ExemploConstrutores\\ExemploConstrutores.csproj",
-      "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\sizal\\.nuget\\packages\\",
       "outputPath": "C:\\worskspace\\dio-decolaTech-desafioPrimeiroGithub\\C,P,D,E.NET\\ExemploConstrutores\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\sizal\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
