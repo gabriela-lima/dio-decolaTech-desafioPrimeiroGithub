@@ -1,0 +1,15 @@
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\ColeçõesLINQ.NET\Colecoes\bin\Debug\net6.0\Colecoes.exe
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\ColeçõesLINQ.NET\Colecoes\bin\Debug\net6.0\Colecoes.deps.json
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\ColeçõesLINQ.NET\Colecoes\bin\Debug\net6.0\Colecoes.runtimeconfig.json
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\ColeçõesLINQ.NET\Colecoes\bin\Debug\net6.0\Colecoes.dll
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\ColeçõesLINQ.NET\Colecoes\bin\Debug\net6.0\ref\Colecoes.dll
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\ColeçõesLINQ.NET\Colecoes\bin\Debug\net6.0\Colecoes.pdb
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\ColeçõesLINQ.NET\Colecoes\obj\Debug\net6.0\Colecoes.csproj.AssemblyReference.cache
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\ColeçõesLINQ.NET\Colecoes\obj\Debug\net6.0\Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\ColeçõesLINQ.NET\Colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfoInputs.cache
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\ColeçõesLINQ.NET\Colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfo.cs
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\ColeçõesLINQ.NET\Colecoes\obj\Debug\net6.0\Colecoes.csproj.CoreCompileInputs.cache
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\ColeçõesLINQ.NET\Colecoes\obj\Debug\net6.0\Colecoes.dll
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\ColeçõesLINQ.NET\Colecoes\obj\Debug\net6.0\ref\Colecoes.dll
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\ColeçõesLINQ.NET\Colecoes\obj\Debug\net6.0\Colecoes.pdb
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\ColeçõesLINQ.NET\Colecoes\obj\Debug\net6.0\Colecoes.genruntimeconfig.cache
