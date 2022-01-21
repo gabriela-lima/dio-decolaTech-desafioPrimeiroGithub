@@ -5,13 +5,36 @@ namespace ExemploConstrutores
 {
     class Program
     {
+        //fazendo delegate
+        //ele pode ter retorno
+        public delegate void Operacao(int x, int y);
+
         static void Main(string[] args)
         {
+            //Mostrando Event
+            //Matematica m = new Matematica(20, 20);
+            //m.Somar();
+
+            //Mostrando delegate
+            //Pode passar com o new
+            //Operacao op = new Operacao(Calculadora.Somar);
+            //ou pode chamar direto
+            //Operacao op = Calculadora.Somar;
+            //multi cast delegate
+            //ele nao perde a referencia do metodo anterior, ele vai chamar o somar e o subtrair, ele chama os metodos em sequencia, um apos o outro, ordem FIFO
+            //o += eh para que nao perca a referencia ao metodo anterior
+            //se colocar apenas o = vai apagar a referencia ao somar, colocando apenas o subtrair
+            //op += Calculadora.Subtrair;
+            //chamar o delegate com o invoke
+            //op.Invoke(20, 20);
+            //ou passar os valores de forma direta
+            //op(20, 20);
+
             //Mostrando constante
             //so pode ser alterada durante a inicializacao e mais nenhum outro lugar
             //nao eh possivel declarar uma constante sem valor, ela precisa ser iniciada com valor
-            const double pi = 3.14;
-            System.Console.WriteLine(pi);
+            //const double pi = 3.14;
+            //System.Console.WriteLine(pi);
 
             //Get e Set
             //Data data = new Data();
