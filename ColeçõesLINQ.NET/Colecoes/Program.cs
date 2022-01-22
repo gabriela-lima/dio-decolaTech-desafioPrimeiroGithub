@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using Colecoes.Helper;
 
 namespace Colecoes
@@ -7,12 +8,54 @@ namespace Colecoes
     {
         static void Main(string[] args)
         {
-            OperacoesArray op = new OperacoesArray();
-            int[] array = new int[5] {6, 3, 8, 1, 9};
-            int valorProcurado = 9;
+            OperacoesLista opLista = new OperacoesLista(); 
+
+            //Mostrando como declarar e acessar uma lista
+            //Declaracao de lista
+            //nao precisamos passar o tamanho da lista, nao precisamos nos preocupar em manipular o tamanho da lista
+            List<string> estados = new List<string>();
+            //Adicionando elementos a nossa lista
+            estados.Add("SP");
+            estados.Add("MG");
+            estados.Add("BA");
+            //Acessando elementos da lista
+            //Metodo Count retorna a quantidade de elementos contidos na lista
+            //System.Console.WriteLine($"Quantidade de elementos na lista: {estados.Count}");
+            //Imprimindo os elementos de uma lista
+            //Melhor usar o foreach se tratando de listas
+            // foreach (var item in estados)
+            // {
+            //     System.Console.WriteLine(item);
+            // }
+            //mas tbm eh possivel utilizar o for, e ele sabe o indice do elemento
+            //esse for foi colocado no ImprimirListaString na classe OperacoesLista
+            // for (int i = 0; i < estados.Count; i++)
+            // {
+            //     System.Console.WriteLine($"Indice {i}, valor: {estados[i]}");
+            // }
+            opLista.ImprimirListaString(estados);
+
+            //Remover um elemento da lista
+            // System.Console.WriteLine("Removendo o elemento");
+            // estados.Remove("MG");
+            // opLista.ImprimirListaString(estados);
+
+            //Mostrando como adicionar elementos de uma colecao a outra colecao sem perder os elementos originais
+            //Nesse caso um eh array e o outro eh uma lista
+            string[] estadosArray = new string[2] {"SC", "MT"};
+            //metodo AddRange vai manter os elementos originais e adicionar os outros ao final da lista
+            //estados.AddRange(estadosArray);
+            //Metodo Insert se voce quiser adicionar um novo elemento em um indice especifico
+            estados.Insert(1, "RJ");
+            opLista.ImprimirListaString(estados);
+
+
+            // OperacoesArray op = new OperacoesArray();
+            // int[] array = new int[5] {6, 3, 8, 1, 9};
+            // int valorProcurado = 9;
 
             //Mostrando como converter um array de tipo int para string
-            string[] arrayString = op.ConverterParaArrayString(array);
+            //string[] arrayString = op.ConverterParaArrayString(array);
 
             //Mostrando a redimensao de um array
             // System.Console.WriteLine($"Capacidade atual do array: {array.Length}");
