@@ -10,16 +10,18 @@
         "projectUniqueName": "C:\\worskspace\\dio-decolaTech-desafioPrimeiroGithub\\ColeçõesLINQ.NET\\Colecoes\\Colecoes.csproj",
         "projectName": "Colecoes",
         "projectPath": "C:\\worskspace\\dio-decolaTech-desafioPrimeiroGithub\\ColeçõesLINQ.NET\\Colecoes\\Colecoes.csproj",
-        "packagesPath": "C:\\Users\\sizal\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
         "outputPath": "C:\\worskspace\\dio-decolaTech-desafioPrimeiroGithub\\ColeçõesLINQ.NET\\Colecoes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sizal\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
