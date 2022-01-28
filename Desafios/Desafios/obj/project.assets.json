@@ -8,26 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Pichau\\.nuget\\packages\\": {}
+    "C:\\Users\\sizal\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\worskspace\\dio-decolaTech-desafioPrimeiroGithub\\Desafios\\Desafios\\Desafios.csproj",
+      "projectUniqueName": "C:\\dio-decolaTech-desafioPrimeiroGithub\\Desafios\\Desafios\\Desafios.csproj",
       "projectName": "Desafios",
-      "projectPath": "C:\\worskspace\\dio-decolaTech-desafioPrimeiroGithub\\Desafios\\Desafios\\Desafios.csproj",
-      "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
-      "outputPath": "C:\\worskspace\\dio-decolaTech-desafioPrimeiroGithub\\Desafios\\Desafios\\obj\\",
+      "projectPath": "C:\\dio-decolaTech-desafioPrimeiroGithub\\Desafios\\Desafios\\Desafios.csproj",
+      "packagesPath": "C:\\Users\\sizal\\.nuget\\packages\\",
+      "outputPath": "C:\\dio-decolaTech-desafioPrimeiroGithub\\Desafios\\Desafios\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\sizal\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

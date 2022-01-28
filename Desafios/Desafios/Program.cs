@@ -108,66 +108,26 @@
 //     }
 
 // }
-
-
-//Desafio Xenlogao
-// using System;
-// using System.Collections.Generic;
-// using System.Text;
-
-// namespace Dio
-// {
-//     class Xenlongao
-//     {
-//         static void Main(string[] args)
-//         {
-//             int N = Convert.ToInt32(Console.ReadLine());
-//             while(N-- > 0)
-//             {
-//                 int val =                                ;
-//                 int newval =                         ;        //complete com a sua lógica
-//                 int resposta =                      ;
-//                 Console.WriteLine(resposta);
-//             }
-//         }
-//     }
-// }
+ 
 
 using System;
-using System.Collections.Generic;
-using System.Text;
 
-namespace Dio
+namespace DIO
 {
-    class Xenlongao
+    class Program
     {
-        static void Main(string[] args)         
+        static void Main(string[] args)
         {
-            int esferaNova = 0;
             int c = int.Parse(Console.ReadLine());
-            while(c != 0)
-            {
-                int n = int.Parse(Console.ReadLine());
-                for(int i = 1; i <= n; i++)
-                {
-                    int esferas = 0;
-                    for(int j = 1; j<= i; j++)
-                    {
-                        if(i % j == 0)
-                        {
-                            esferas++;
-                        }
-                    }
-                    if(esferas % 2 == 0)
-                    {
-                        esferaNova++;
-                    }  
-                }
-                c--;
+            for (int i = 0; i < c; i++)
+            { 
+                var esferas = int.Parse(Console.ReadLine());
+                var esferaNova = esferas - Math.Floor(Math.Sqrt(esferas));
+                Console.WriteLine(esferaNova);
+
             }
-            System.Console.WriteLine(esferaNova);
         }
     }
-}    
+}
 
 
