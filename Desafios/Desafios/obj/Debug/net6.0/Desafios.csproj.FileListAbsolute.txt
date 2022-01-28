@@ -1,0 +1,15 @@
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\Desafios\Desafios\bin\Debug\net6.0\Desafios.exe
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\Desafios\Desafios\bin\Debug\net6.0\Desafios.deps.json
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\Desafios\Desafios\bin\Debug\net6.0\Desafios.runtimeconfig.json
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\Desafios\Desafios\bin\Debug\net6.0\Desafios.dll
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\Desafios\Desafios\bin\Debug\net6.0\ref\Desafios.dll
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\Desafios\Desafios\bin\Debug\net6.0\Desafios.pdb
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\Desafios\Desafios\obj\Debug\net6.0\Desafios.csproj.AssemblyReference.cache
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\Desafios\Desafios\obj\Debug\net6.0\Desafios.GeneratedMSBuildEditorConfig.editorconfig
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\Desafios\Desafios\obj\Debug\net6.0\Desafios.AssemblyInfoInputs.cache
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\Desafios\Desafios\obj\Debug\net6.0\Desafios.AssemblyInfo.cs
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\Desafios\Desafios\obj\Debug\net6.0\Desafios.csproj.CoreCompileInputs.cache
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\Desafios\Desafios\obj\Debug\net6.0\Desafios.dll
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\Desafios\Desafios\obj\Debug\net6.0\ref\Desafios.dll
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\Desafios\Desafios\obj\Debug\net6.0\Desafios.pdb
+C:\worskspace\dio-decolaTech-desafioPrimeiroGithub\Desafios\Desafios\obj\Debug\net6.0\Desafios.genruntimeconfig.cache
