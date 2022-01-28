@@ -1,0 +1,15 @@
+C:\dio-decolaTech-desafioPrimeiroGithub\POOExemplos\POOExemplo\bin\Debug\net6.0\POOExemplo.exe
+C:\dio-decolaTech-desafioPrimeiroGithub\POOExemplos\POOExemplo\bin\Debug\net6.0\POOExemplo.deps.json
+C:\dio-decolaTech-desafioPrimeiroGithub\POOExemplos\POOExemplo\bin\Debug\net6.0\POOExemplo.runtimeconfig.json
+C:\dio-decolaTech-desafioPrimeiroGithub\POOExemplos\POOExemplo\bin\Debug\net6.0\POOExemplo.dll
+C:\dio-decolaTech-desafioPrimeiroGithub\POOExemplos\POOExemplo\bin\Debug\net6.0\ref\POOExemplo.dll
+C:\dio-decolaTech-desafioPrimeiroGithub\POOExemplos\POOExemplo\bin\Debug\net6.0\POOExemplo.pdb
+C:\dio-decolaTech-desafioPrimeiroGithub\POOExemplos\POOExemplo\obj\Debug\net6.0\POOExemplo.csproj.AssemblyReference.cache
+C:\dio-decolaTech-desafioPrimeiroGithub\POOExemplos\POOExemplo\obj\Debug\net6.0\POOExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\dio-decolaTech-desafioPrimeiroGithub\POOExemplos\POOExemplo\obj\Debug\net6.0\POOExemplo.AssemblyInfoInputs.cache
+C:\dio-decolaTech-desafioPrimeiroGithub\POOExemplos\POOExemplo\obj\Debug\net6.0\POOExemplo.AssemblyInfo.cs
+C:\dio-decolaTech-desafioPrimeiroGithub\POOExemplos\POOExemplo\obj\Debug\net6.0\POOExemplo.csproj.CoreCompileInputs.cache
+C:\dio-decolaTech-desafioPrimeiroGithub\POOExemplos\POOExemplo\obj\Debug\net6.0\POOExemplo.dll
+C:\dio-decolaTech-desafioPrimeiroGithub\POOExemplos\POOExemplo\obj\Debug\net6.0\ref\POOExemplo.dll
+C:\dio-decolaTech-desafioPrimeiroGithub\POOExemplos\POOExemplo\obj\Debug\net6.0\POOExemplo.pdb
+C:\dio-decolaTech-desafioPrimeiroGithub\POOExemplos\POOExemplo\obj\Debug\net6.0\POOExemplo.genruntimeconfig.cache
